@@ -1,0 +1,1 @@
+(self.webpackChunkcu_std_ocr=self.webpackChunkcu_std_ocr||[]).push([[1167],{1167:(c,e,n)=>{n.r(e),n.d(e,{environment:()=>s});const s={isTestMode:!1}}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkcu_std_home=self.webpackChunkcu_std_home||[]).push([[1167],{1167:(u,e,n)=>{n.r(e),n.d(e,{environment:()=>s});const s={isTestMode:!1}}}]);
